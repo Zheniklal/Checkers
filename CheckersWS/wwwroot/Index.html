@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Checkers</title>
+    <link href="CSS/Style.css" rel="stylesheet" />
+    <script src="Javascript/jquery-3.1.1.js"></script>
+    <script src="Javascript/Checkers.js"></script>
+</head>
+<body>
+    <div class="load">
+        <div> </div>
+    </div>
+    <div id="Page">
+        <header>
+            <h1>checkers</h1>
+        </header>
+        <main>
+            <form class="connect">
+                <input name="username" type="text" placeholder="username" maxlength="10" required /> <input type="submit" value="connect" />
+            </form>
+            <div class="users">
+                <header>
+                    <h2>Users</h2>
+                    <input name="close" type="button" value="X" />
+                </header>
+                <section>
+                    <ul></ul>
+                </section>
+            </div>
+            <div class="game">
+                <header>
+                    <h2>Game</h2>
+                </header>
+                <section><div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="green" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="green" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="green" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="green" /> </svg> </div></div><div> <div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="green" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="green" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="green" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="green" /> </svg> </div><div style="background-color:white"></div></div><div> <div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="green" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="green" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="green" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="green" /> </svg> </div></div><div> <div style="background-color:black"></div><div style="background-color:white"></div><div style="background-color:black"></div><div style="background-color:white"></div><div style="background-color:black"></div><div style="background-color:white"></div><div style="background-color:black"></div><div style="background-color:white"></div></div><div> <div style="background-color:white"></div><div style="background-color:black"></div><div style="background-color:white"></div><div style="background-color:black"></div><div style="background-color:white"></div><div style="background-color:black"></div><div style="background-color:white"></div><div style="background-color:black"></div></div><div> <div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="red" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="red" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="red" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="red" /> </svg> </div><div style="background-color:white"></div></div><div> <div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="red" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="red" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="red" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="red" /> </svg> </div></div><div> <div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="red" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="red" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="red" /> </svg> </div><div style="background-color:white"></div><div style="background-color:black"> <svg height="33.75" width="33.75"> <circle cx="16.875" cy="16.875" r="15.5" fill="red" /> </svg> </div><div style="background-color:white"></div></div></section>
+            </div>
+        </main>
+    </div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\Владелец\source\repos\NetworkCheckers\NetworkCheckers\bin\Debug\NetworkCheckers.exe.config
+C:\Users\Владелец\source\repos\NetworkCheckers\NetworkCheckers\bin\Debug\NetworkCheckers.exe
+C:\Users\Владелец\source\repos\NetworkCheckers\NetworkCheckers\bin\Debug\NetworkCheckers.pdb
+C:\Users\Владелец\source\repos\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.csprojAssemblyReference.cache
+C:\Users\Владелец\source\repos\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.Form1.resources
+C:\Users\Владелец\source\repos\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.Form2.resources
+C:\Users\Владелец\source\repos\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.Properties.Resources.resources
+C:\Users\Владелец\source\repos\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.csproj.GenerateResource.cache
+C:\Users\Владелец\source\repos\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\source\repos\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.exe
+C:\Users\Владелец\source\repos\NetworkCheckers\NetworkCheckers\obj\Debug\NetworkCheckers.pdb

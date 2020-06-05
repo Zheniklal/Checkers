@@ -1,0 +1,13 @@
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\bin\Debug\netcoreapp2.0\CheckersWS.deps.json
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\bin\Debug\netcoreapp2.0\CheckersWS.runtimeconfig.json
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\bin\Debug\netcoreapp2.0\CheckersWS.runtimeconfig.dev.json
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\bin\Debug\netcoreapp2.0\CheckersWS.dll
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\bin\Debug\netcoreapp2.0\CheckersWS.pdb
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\bin\Debug\netcoreapp2.0\Checkers.dll
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\bin\Debug\netcoreapp2.0\Checkers.pdb
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\obj\Debug\netcoreapp2.0\CheckersWS.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\obj\Debug\netcoreapp2.0\CheckersWS.AssemblyInfoInputs.cache
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\obj\Debug\netcoreapp2.0\CheckersWS.AssemblyInfo.cs
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\obj\Debug\netcoreapp2.0\CheckersWS.csproj.CopyComplete
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\obj\Debug\netcoreapp2.0\CheckersWS.dll
+C:\Users\Владелец\Source\Repos\ws-checkers\src\CheckersWS\obj\Debug\netcoreapp2.0\CheckersWS.pdb
